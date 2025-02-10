@@ -167,7 +167,7 @@
                 <div class="bg-white shadow-md rounded-lg overflow-hidden mt-4">
                     <div class="p-5">
                         <img alt="Struktur Organisasi Pemerintahan Desa Bangkalaloe" class="w-full h-auto object-cover"
-                            height="400" src="imagesstruktur/mapdesa.jpg" width="1200" />
+                            height="400" src="assets/peta.jpg" width="1200" />
                     </div>
                 </div>
             </div>

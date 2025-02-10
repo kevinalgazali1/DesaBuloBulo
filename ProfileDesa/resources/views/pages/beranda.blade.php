@@ -47,7 +47,7 @@
                 </div>
                 <div class="md:w-1/3 flex justify-center md:justify-end">
                     <div class="text-center w-full">
-                        <img src="images/tuugu.jpg" alt="Lokasi Desa Bulo Bulo"
+                        <img src="assets/desa.jpeg" alt="Lokasi Desa Bulo Bulo"
                             class="w-full h-400 object-cover rounded-lg shadow-lg transition-transform duration-300 hover:scale-105" />
                         <p class="text-sm text-gray-500 mt-2 font-semibold tracking-wide">
                             Desa Bulo Bulo, Kecamatan Bulukumpa, Bulukumba
@@ -59,13 +59,7 @@
         </div>
         <div class="container mx-auto px-8 p-4 bg-[#344CB7] text-white">
             <div class="flex flex-col md:flex-row">
-                <div class="md:w-1/3 flex justify-center md:justify-end">
-                    <div class="text-center">
-                        <img alt="Peta desa bulo bulo" class="border border-gray-600" height="600"
-                            src="images/Sejarah.jpg" width="400" />
-                    </div>
-                </div>
-                <div class="md:w-2/3 ml-4">
+                <div class=" ml-4">
                     <div class="flex items-center mb-1">
                         <div class="w-1 bg-blue-500 h-12 mr-4"></div>
                         <h1 class="text-4xl font-bold text-[#FFEB00]" style="font-family: 'Poppins', sans-serif;">Sejarah
@@ -73,37 +67,55 @@
                     </div>
                     <h2 class="text-2xl text-white mb-4"style="font-family: 'Poppins', sans-serif;">Desa Bulo Bulo</h2>
                     <p class="mb-4 text-justify text-white"style="font-family: 'Poppins', sans-serif;">
-                        Desa Bulo-Bulo memiliki sejarah yang erat kaitannya dengan sistem pemerintahan adat Gallarang
-                        sebelum Indonesia merdeka. Gallarang Bulo-Bulo merupakan bagian dari struktur pemerintahan
-                        tradisional yang berperan dalam mengatur kehidupan masyarakat setempat. Nama "Bulo-Bulo" sendiri
-                        berasal dari bahasa Bugis, yang berarti persatuan yang kokoh, mencerminkan nilai kebersamaan yang
-                        dijunjung tinggi oleh penduduknya. Seiring berjalannya waktu, sistem pemerintahan di desa ini
-                        berkembang mengikuti perubahan zaman, namun tetap mempertahankan kearifan lokal dan tradisi adat.
+                        Desa Bulo-Bulo memiliki sejarah panjang yang erat kaitannya dengan budaya dan perjuangan masyarakat
+                        setempat. Nama “Bulo-Bulo” berasal dari bahasa Bugis, yaitu “Ma’bulo sippeppa,” yang berarti bersatu
+                        dengan teguh, seperti batang bambu yang kokoh. Wilayah ini sejak dahulu kala sudah menjadi tempat
+                        bermukim bagi masyarakat Bugis yang menjunjung tinggi nilai kebersamaan dan gotong royong. Sebelum
+                        kemerdekaan Indonesia, desa ini masih berbentuk Gallarang, yaitu sistem pemerintahan adat yang
+                        dipimpin oleh seorang kepala adat.
                     </p>
                     <p class="mb-4 text-justify text-white"style="font-family: 'Poppins', sans-serif;">
-                        Selain memiliki sejarah pemerintahan yang kuat, Desa Bulo-Bulo juga berperan dalam perjuangan
-                        kemerdekaan Indonesia. Pada 19 September 1945, para pemuda desa mengibarkan Bendera Merah Putih
-                        untuk pertama kalinya di Kabupaten Bulukumba. Peristiwa ini dipimpin oleh H. Mappiase, Dolo Daeng
-                        Bella, dan Mandor Muhammad Kasim, yang dengan penuh semangat menunjukkan keberanian mereka dalam
-                        mendukung kemerdekaan bangsa. Upacara pengibaran bendera ini dilakukan di tengah kebun cengkeh,
-                        dengan sebuah batu hitam sebagai tanda sejarah yang hingga kini masih dikenang dan menjadi bagian
-                        penting dari peringatan kemerdekaan di daerah tersebut.
+                        Pada masa perjuangan kemerdekaan, masyarakat Desa Bulo-Bulo turut serta dalam pergerakan melawan
+                        penjajah. Salah satu momen bersejarah terjadi pada tanggal 19 September 1945, ketika para pemuda
+                        desa mengibarkan Bendera Merah Putih untuk pertama kalinya di Kabupaten Bulukumba. Pengibaran ini
+                        dipimpin oleh tokoh-tokoh seperti H. Mappiase, Dolo Daeng Bella, dan Mandor Muhammad Kasim. Momen
+                        ini menjadi simbol keberanian dan semangat patriotisme masyarakat Bulo-Bulo dalam mempertahankan
+                        kemerdekaan Indonesia.
                     </p>
                     <p class="mb-4 text-justify text-white"style="font-family: 'Poppins', sans-serif;">
-                        Dalam perkembangannya, Desa Bulo-Bulo mengalami beberapa perubahan administrasi. Awalnya, desa ini
-                        masih menjadi bagian dari Gallarang Bulukumba, namun pada tahun 1965, secara resmi ditetapkan
-                        sebagai desa mandiri. Kemudian, pada tahun 1986, desa ini mengalami pemekaran menjadi dua bagian,
-                        yaitu Desa Bulo-Bulo dan Desa Salassae, sebagai upaya untuk meningkatkan efektivitas pemerintahan
-                        dan pelayanan terhadap masyarakat. Pemekaran ini membawa dampak positif, termasuk perkembangan
-                        infrastruktur dan layanan publik yang lebih baik.
+                        Wilayah tempat pengibaran bendera tersebut masih dikenang hingga kini, ditandai dengan batu hitam di
+                        tengah kebun cengkeh. Setiap tanggal 17 Agustus, masyarakat Desa Bulo-Bulo memperingati momen
+                        bersejarah tersebut sebagai bagian dari penghormatan kepada para pahlawan lokal. Keberanian para
+                        tokoh desa dalam memperjuangkan kemerdekaan juga membentuk identitas masyarakat yang menjunjung
+                        tinggi nilai persatuan dan nasionalisme.
                     </p>
                     <p class="mb-4 text-justify text-white"style="font-family: 'Poppins', sans-serif;">
-                        Sejak pelaksanaan pemilihan kepala desa pertama pada tahun 1988, Desa Bulo-Bulo terus mengalami
-                        kemajuan di berbagai sektor. Kepemimpinan yang silih berganti membawa berbagai program pembangunan
-                        yang mendukung kesejahteraan masyarakat. Berbagai bidang, seperti pendidikan, pertanian, dan ekonomi
-                        lokal, terus berkembang dengan tetap mempertahankan nilai-nilai budaya dan adat yang menjadi
-                        identitas desa. Hingga saat ini, Desa Bulo-Bulo tetap menjadi salah satu desa yang memiliki peran
-                        penting dalam sejarah dan perkembangan wilayah Kabupaten Bulukumba.
+                        Pada tahun 1965, sistem pemerintahan Gallarang diubah menjadi sistem desa sesuai dengan kebijakan
+                        pemerintah Indonesia dalam menyederhanakan struktur pemerintahan lokal. Pada saat itu, Desa
+                        Bulo-Bulo digabungkan dengan Gallarang Bulukumba menjadi satu wilayah administratif yang lebih
+                        besar. Perubahan ini memberikan dampak besar terhadap perkembangan tata kelola desa, terutama dalam
+                        bidang pemerintahan dan pembangunan infrastruktur.
+                    </p>
+                    <p class="mb-4 text-justify text-white"style="font-family: 'Poppins', sans-serif;">
+                        Seiring waktu, pertumbuhan penduduk dan perluasan wilayah menyebabkan perlunya pemekaran desa. Pada
+                        tahun 1986, Desa Bulo-Bulo resmi dimekarkan menjadi dua desa, yaitu Desa Bulo-Bulo dan Desa
+                        Salassae. Pemekaran ini bertujuan untuk meningkatkan pelayanan kepada masyarakat serta mempercepat
+                        pembangunan di masing-masing wilayah. Sejak saat itu, kedua desa berkembang secara mandiri, meskipun
+                        tetap memiliki keterkaitan historis dan budaya yang kuat.
+                    </p>
+                    <p class="mb-4 text-justify text-white"style="font-family: 'Poppins', sans-serif;">
+                        Pada tahun 1988, pemilihan kepala desa pertama kali dilakukan secara demokratis di Desa Bulo-Bulo.
+                        Sejak saat itu, pemerintahan desa semakin berkembang dengan adanya sistem kepemimpinan yang lebih
+                        terstruktur. Berbagai kebijakan telah diterapkan untuk meningkatkan kesejahteraan masyarakat,
+                        termasuk pembangunan infrastruktur jalan, fasilitas pendidikan, serta pemberdayaan ekonomi berbasis
+                        pertanian dan perdagangan.
+                    </p>
+                    <p class="mb-4 text-justify text-white"style="font-family: 'Poppins', sans-serif;">
+                        Hingga saat ini, Desa Bulo-Bulo terus berkembang sebagai desa yang maju dengan tetap mempertahankan
+                        nilai-nilai adat dan sejarahnya. Masyarakatnya tetap menjunjung tinggi semangat gotong royong,
+                        seperti yang diwariskan oleh para leluhur mereka. Dengan kekayaan sejarah dan budaya yang
+                        dimilikinya, Desa Bulo-Bulo menjadi bagian penting dalam perjalanan sejarah Kabupaten Bulukumba dan
+                        terus berkontribusi dalam pembangunan daerah.
                     </p>
                 </div>
             </div>
