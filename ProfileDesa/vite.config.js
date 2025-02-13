@@ -8,4 +8,7 @@ export default defineConfig({
             refresh: true,
         }),
     ],
+    build: {
+        outDir: 'public/build', // Pastikan hasil build masuk ke folder yang benar
+    }
 });

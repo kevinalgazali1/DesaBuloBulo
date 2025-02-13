@@ -50,9 +50,9 @@
 
 <header
     class="fixed top-0 left-0 right-0 bg-[#000957] p-2 flex items-center z-50 shadow-lg rounded-b-xl transition-all duration-300">
-    <div class="container mx-auto flex items-center">
+    <div class="container mx-auto flex items-center ml-4">
         <div class="flex items-center">
-            <img alt="Logo of Jeneponto"
+            <img alt="Logo of bulobulo"
                 class="h-12 w-12 mr-4 rounded-full shadow-md"
                 height="70" src="assets/logokab.png" width="70" />
             <div>
